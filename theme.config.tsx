@@ -5,7 +5,7 @@ const config: DocsThemeConfig = {
   logo: <span>ALTR Style Guide</span>,
   docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
   footer: {
-    text: 'ALTR Style Guide - designed by Chuan',
+    text: 'ALTR Style Guide - designed by Chuan  - powered by https://nextra.site/docs',
   },
   feedback: {
     content: null,
